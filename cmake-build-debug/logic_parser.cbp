@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="logic_parser"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="logic_parser">
+				<Option output="/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/logic_parser" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 logic_parser"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="logic_parser/fast">
+				<Option output="/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/logic_parser" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 logic_parser/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/maikelveen/CLionProjects/logic-parser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/maikelveen/CLionProjects/logic-parser/lexer.c">
+			<Option target="logic_parser"/>
+		</Unit>
+		<Unit filename="/Users/maikelveen/CLionProjects/logic-parser/lexer.h">
+			<Option target="logic_parser"/>
+		</Unit>
+		<Unit filename="/Users/maikelveen/CLionProjects/logic-parser/main.c">
+			<Option target="logic_parser"/>
+		</Unit>
+		<Unit filename="/Users/maikelveen/CLionProjects/logic-parser/parser.c">
+			<Option target="logic_parser"/>
+		</Unit>
+		<Unit filename="/Users/maikelveen/CLionProjects/logic-parser/parser.h">
+			<Option target="logic_parser"/>
+		</Unit>
+		<Unit filename="/Users/maikelveen/CLionProjects/logic-parser/reader.c">
+			<Option target="logic_parser"/>
+		</Unit>
+		<Unit filename="/Users/maikelveen/CLionProjects/logic-parser/reader.h">
+			<Option target="logic_parser"/>
+		</Unit>
+		<Unit filename="/Users/maikelveen/CLionProjects/logic-parser/token.h">
+			<Option target="logic_parser"/>
+		</Unit>
+		<Unit filename="/Users/maikelveen/CLionProjects/logic-parser/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
